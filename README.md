@@ -87,8 +87,8 @@ A solução proposta é um app que combina **chat natural**, **classificação a
   - Chat (conversa com o assistente)  
   - Metas  
   - Relatórios  
-  - Ajustes (configurações)  
-- **Recursos necessários
+  - Ajustes (configurações)
+  - Recursos necessários
 
 ## Reflexão
 
