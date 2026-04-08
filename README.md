@@ -96,7 +96,7 @@ A solução proposta é um app que combina **chat natural**, **classificação a
   - Eu consegui criar metas, registrar transações, por meu saldo e gerenciar meus gastos.
 
 ### O que não funcionou como o esperado? 
-  - Maioria dos comandos não foi bem sucedida pois o assistente não entendia e fazia outra coisa.
+  - Maioria dos comandos não foi bem sucedida, pois o assistente não entendia e/ou fazia outra coisa.
 
 ### O que aprendeu sobre conversar com IAs?
   - Eu aprendi que é difícil conseguir exatamente o que você espera da IA na primeira tentativa.
